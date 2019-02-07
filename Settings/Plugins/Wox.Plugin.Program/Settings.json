@@ -1,0 +1,18 @@
+{
+  "ProgramSources": [
+    {
+      "Location": "C:\\Users\\cmeyertons001\\Desktop"
+    },
+    {
+      "Location": "C:\\Source\\PWC\\personal-pwc"
+    }
+  ],
+  "ProgramSuffixes": [
+    "bat",
+    "appref-ms",
+    "exe",
+    "lnk"
+  ],
+  "EnableStartMenuSource": true,
+  "EnableRegistrySource": true
+}
