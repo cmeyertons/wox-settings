@@ -1,0 +1,2 @@
+# wox-settings
+Wox settings
