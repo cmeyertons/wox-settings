@@ -11,10 +11,10 @@
   "ResultFontWeight": null,
   "ResultFontStretch": null,
   "AutoUpdates": true,
-  "WindowLeft": 1320.0,
-  "WindowTop": 338.5,
+  "WindowLeft": 368.0,
+  "WindowTop": 194.5,
   "MaxResultsToShow": 6,
-  "ActivateTimes": 176,
+  "ActivateTimes": 294,
   "CustomPluginHotkeys": [],
   "Opacity": 1.0,
   "OpacityMode": 0,
@@ -163,6 +163,14 @@
       "0ECADE17459B49F587BF81DC3A125110": {
         "ID": "0ECADE17459B49F587BF81DC3A125110",
         "Name": "Browser Bookmarks",
+        "ActionKeywords": [
+          "*"
+        ],
+        "Disabled": false
+      },
+      "ca8c0c3dea2e4f75833482489587d33d": {
+        "ID": "ca8c0c3dea2e4f75833482489587d33d",
+        "Name": "Simple Web Search",
         "ActionKeywords": [
           "*"
         ],

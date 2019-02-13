@@ -231,6 +231,158 @@
     {
       "Query": "ev wox",
       "ExecutedDateTime": "2019-02-07T10:08:31.1537932-06:00"
+    },
+    {
+      "Query": "vscode",
+      "ExecutedDateTime": "2019-02-07T17:42:49.7477249-06:00"
+    },
+    {
+      "Query": "cisco mob",
+      "ExecutedDateTime": "2019-02-07T17:43:02.1556541-06:00"
+    },
+    {
+      "Query": "vscode",
+      "ExecutedDateTime": "2019-02-07T17:49:21.1998567-06:00"
+    },
+    {
+      "Query": "cisco mob",
+      "ExecutedDateTime": "2019-02-08T08:48:19.1919142-06:00"
+    },
+    {
+      "Query": "code",
+      "ExecutedDateTime": "2019-02-08T09:21:24.6433474-06:00"
+    },
+    {
+      "Query": "p",
+      "ExecutedDateTime": "2019-02-08T09:43:38.3212108-06:00"
+    },
+    {
+      "Query": "pwc ado",
+      "ExecutedDateTime": "2019-02-08T09:43:43.5140987-06:00"
+    },
+    {
+      "Query": "a",
+      "ExecutedDateTime": "2019-02-08T10:37:41.0610243-06:00"
+    },
+    {
+      "Query": "ado",
+      "ExecutedDateTime": "2019-02-08T10:48:05.8368631-06:00"
+    },
+    {
+      "Query": "pwc e",
+      "ExecutedDateTime": "2019-02-08T15:35:55.2752172-06:00"
+    },
+    {
+      "Query": "pwc ado calcs bo",
+      "ExecutedDateTime": "2019-02-08T16:59:20.0519098-06:00"
+    },
+    {
+      "Query": "p",
+      "ExecutedDateTime": "2019-02-11T10:31:22.0802335-06:00"
+    },
+    {
+      "Query": "pwc calcs",
+      "ExecutedDateTime": "2019-02-11T10:43:41.2015925-06:00"
+    },
+    {
+      "Query": "tes",
+      "ExecutedDateTime": "2019-02-11T10:54:46.0999969-06:00"
+    },
+    {
+      "Query": "t",
+      "ExecutedDateTime": "2019-02-11T11:12:32.6758734-06:00"
+    },
+    {
+      "Query": "test pro",
+      "ExecutedDateTime": "2019-02-11T11:33:45.4753594-06:00"
+    },
+    {
+      "Query": "vs201",
+      "ExecutedDateTime": "2019-02-11T12:26:30.597794-06:00"
+    },
+    {
+      "Query": "code",
+      "ExecutedDateTime": "2019-02-11T12:53:13.2442725-06:00"
+    },
+    {
+      "Query": "test pro",
+      "ExecutedDateTime": "2019-02-11T13:26:55.150214-06:00"
+    },
+    {
+      "Query": "ssms",
+      "ExecutedDateTime": "2019-02-11T13:33:04.6721497-06:00"
+    },
+    {
+      "Query": "p",
+      "ExecutedDateTime": "2019-02-11T14:53:46.4234681-06:00"
+    },
+    {
+      "Query": "d",
+      "ExecutedDateTime": "2019-02-11T14:55:51.5045576-06:00"
+    },
+    {
+      "Query": "p",
+      "ExecutedDateTime": "2019-02-11T15:40:22.6182678-06:00"
+    },
+    {
+      "Query": "screen",
+      "ExecutedDateTime": "2019-02-11T15:42:42.9925272-06:00"
+    },
+    {
+      "Query": "pwc bor",
+      "ExecutedDateTime": "2019-02-11T16:39:42.7348634-06:00"
+    },
+    {
+      "Query": "c",
+      "ExecutedDateTime": "2019-02-12T08:32:46.7406285-06:00"
+    },
+    {
+      "Query": "p",
+      "ExecutedDateTime": "2019-02-12T08:39:48.2732504-06:00"
+    },
+    {
+      "Query": "vscod",
+      "ExecutedDateTime": "2019-02-12T08:59:24.9067207-06:00"
+    },
+    {
+      "Query": "p",
+      "ExecutedDateTime": "2019-02-12T09:35:15.7917913-06:00"
+    },
+    {
+      "Query": "setting",
+      "ExecutedDateTime": "2019-02-12T09:35:43.6412326-06:00"
+    },
+    {
+      "Query": "wpm u",
+      "ExecutedDateTime": "2019-02-12T09:38:35.728883-06:00"
+    },
+    {
+      "Query": "set",
+      "ExecutedDateTime": "2019-02-12T09:40:10.4891681-06:00"
+    },
+    {
+      "Query": "s",
+      "ExecutedDateTime": "2019-02-12T09:42:40.0796503-06:00"
+    },
+    {
+      "Query": "d",
+      "ExecutedDateTime": "2019-02-12T10:31:44.1073188-06:00"
+    },
+    {
+      "Query": "p",
+      "ExecutedDateTime": "2019-02-12T18:28:49.7337024-06:00"
+    },
+    {
+      "Query": "c",
+      "ExecutedDateTime": "2019-02-13T08:21:36.6488884-06:00"
+    },
+    {
+      "Query": "cisco",
+      "ExecutedDateTime": "2019-02-13T09:23:58.0937899-06:00"
+    },
+    {
+      "Query": "wpm",
+      "ExecutedDateTime": "2019-02-13T12:58:23.5083067-06:00"
     }
   ]
 }
